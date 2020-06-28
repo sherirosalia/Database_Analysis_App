@@ -18,11 +18,8 @@ Localhost deployment of app with Flask provides user interface
 All csv files in root folder.
 Deploy flask app by typing python -m app.py in bash
 
-### Whisker Plot
-![](https://github.com/sherirosalia/Database_Analysis_App/blob/master/resources/trip_avg_temp.png | width=400)
 
-### Rain Bar Chart
-![](https://github.com/sherirosalia/Database_Analysis_App/blob/master/resources/year_rain.png | width=400)
 
 ### Histogram
-![](https://github.com/sherirosalia/Database_Analysis_App/blob/master/resources/busy_temps.png | width=100)
+![Histogram](../master/resources/busy_temps.png)
+

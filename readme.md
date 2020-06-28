@@ -18,7 +18,14 @@ Localhost deployment of app with Flask provides user interface
 All csv files in root folder.
 Deploy flask app by typing python -m app.py in bash
 
+### Whisker Plot
+![Average Temps](../master/resources/trip_avg_temp.png)
 
+### Temperatures
+![Temp Range](../master/resources/temp_ranges.png)
+
+### Rain
+![Histogram](../master/resources/year_rain.png)
 
 ### Histogram
 ![Histogram](../master/resources/busy_temps.png)

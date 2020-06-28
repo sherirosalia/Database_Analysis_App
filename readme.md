@@ -24,8 +24,6 @@ Deploy flask app by typing python -m app.py in bash
 ### Temperature range
 ![Temp Range](../master/resources/temp_ranges.png)
 
-### Temperature common
-![Histogram](../master/resources/busy_temps.png)
 
 ### Rain
 ![Histogram](../master/resources/year_rain.png)

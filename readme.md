@@ -1,6 +1,5 @@
-# NoSQL, SQL & Web App 
-## SQLite, SQLAlchemy & Flask
-Analysis of surf reports from Hawaii
+## Analysis of surf reports from Hawaii 
+### SQLite, SQLAlchemy & Flask
 
 ### About
 Hawaii surf reports extracted from CSV files using SQLite and, using Python's version of 

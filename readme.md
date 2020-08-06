@@ -16,6 +16,9 @@ Localhost deployment of app with Flask provides user interface
 ### File Structure
 All csv files in root folder.
 Deploy flask app by typing python -m app.py in bash
+Jupyter notebook file called "climate_analysis" is the precursor to the flask app.
+The file named "refactor_sqlite_analysis" is a notebook duplicating SQLAlchemy scripts with both "regular" Python
+and Python Pandas.
 
 ### Avg Temp
 ![Average Temps](../master/resources/trip_avg_temp.png)
